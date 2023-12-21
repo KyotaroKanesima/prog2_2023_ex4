@@ -1,7 +1,7 @@
 package ex4;
 
-public class Doc extends Animal implements Swimmable{
-    public Doc(String _name){
+public class Dog extends Animal implements Swimmable{
+    public Dog(String _name){
     super(_name);
     }
     @Override
