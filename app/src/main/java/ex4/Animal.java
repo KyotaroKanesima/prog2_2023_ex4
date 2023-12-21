@@ -14,6 +14,6 @@ public class Animal {
         return this.name;
     }
     public void makeSound(){
-        System.out.println(getName() + "が鳴いている");
+        System.out.println(this.name + "が鳴いている");
     }
 }
